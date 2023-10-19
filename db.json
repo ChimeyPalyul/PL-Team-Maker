@@ -1,0 +1,143 @@
+{
+  "chelseaPlayers": [
+    {
+      "id": 1,
+      "name": "Poccetino",
+      "position": "MANAGER"
+    },
+    {
+      "id": 2,
+      "name": "Sanchez",
+      "position": "GK"
+    },
+    {
+      "id": 3,
+      "name": "Chilwell",
+      "position": "LB"
+    },
+    {
+      "id": 4,
+      "name": "Colwill",
+      "position": "CB"
+    },
+    {
+      "id": 5,
+      "name": "Silva",
+      "position": "CB"
+    },
+    {
+      "id": 6,
+      "name": "James",
+      "position": "RB"
+    },
+    {
+      "id": 7,
+      "name": "Caicedo",
+      "position": "CDM"
+    },
+    {
+      "id": 8,
+      "name": "Enzo",
+      "position": "CDM"
+    },
+    {
+      "id": 9,
+      "name": "Mudryk",
+      "position": "LW"
+    },
+    {
+      "id": 10,
+      "name": "Nkunku",
+      "position": "CAM"
+    },
+    {
+      "id": 11,
+      "name": "Madueke",
+      "position": "RW"
+    },
+    {
+      "id": 12,
+      "name": "Jackson",
+      "position": "ST"
+    }
+  ],
+  "substitutes": [
+    {
+      "id": 13,
+      "name": "Broja",
+      "position": "ST"
+    },
+    {
+      "id": 14,
+      "name": "Palmer",
+      "position": "CAM"
+    },
+    {
+      "id": 15,
+      "name": "Maatsen",
+      "position": "LB"
+    },
+    {
+      "id": 16,
+      "name": "Cucurella",
+      "position": "LB"
+    },
+    {
+      "id": 17,
+      "name": "Gusto",
+      "position": "RB"
+    },
+    {
+      "id": 18,
+      "name": "Chuekwemeuke",
+      "position": "CAM"
+    },
+    {
+      "id": "19",
+      "name": "Sterling",
+      "position": "RW"
+    },
+    {
+      "name": "Chalobah",
+      "position": "CB",
+      "height": null,
+      "pace": null,
+      "id": "Z4rLRfM"
+    },
+    {
+      "name": "Hudson-Odoi",
+      "position": "RW",
+      "height": null,
+      "pace": null,
+      "id": "j9h3nJz"
+    },
+    {
+      "name": "Lavia",
+      "position": "CDM",
+      "height": null,
+      "pace": null,
+      "id": "7S6kwSG"
+    },
+    {
+      "name": "Fofana",
+      "position": "CB",
+      "height": null,
+      "pace": null,
+      "id": "L162PVN"
+    },
+    {
+      "name": "Petrovic",
+      "position": "GK",
+      "height": null,
+      "pace": null,
+      "id": "ew57p_C"
+    },
+    {
+      "name": "Badiashille",
+      "position": "CB",
+      "height": null,
+      "pace": null,
+      "id": "zlxX1Vz"
+    }
+  ]
+}
