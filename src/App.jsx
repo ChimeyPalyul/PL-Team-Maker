@@ -48,7 +48,7 @@ function App() {
     createRoutesFromElements(
       <Route path="/" element={<NavLayout/>}>
         <Route index element={<Playerlist subs={subs} setSubs={setSubs} handleNewSubs={handleNewSubs} />}/>
-        {/* <Route path="Subs" element={<Subs subs={subs} setSubs={setSubs}/>} /> */}
+        <Route path="Subs" element={<Subs subs={subs} setSubs={setSubs}/>}/> 
         <Route path="editButtons" element={<EditButtons handleNewSubs={handleNewSubs} />} />
       </Route>
     
